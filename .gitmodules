@@ -8,3 +8,6 @@
 [submodule "QHScrnomo"]
 	path = QHScrnomo
 	url = https://github.com/clevelandclinicqhs/qhscrnomo
+[submodule "sociome"]
+	path = sociome
+	url = https://github.com/clevelandclinicqhs/sociome
