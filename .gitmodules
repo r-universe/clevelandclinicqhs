@@ -2,12 +2,12 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "projects"]
-	path = projects
-	url = https://github.com/clevelandclinicqhs/projects
 [submodule "QHScrnomo"]
 	path = QHScrnomo
 	url = https://github.com/clevelandclinicqhs/qhscrnomo
+[submodule "projects"]
+	path = projects
+	url = https://github.com/clevelandclinicqhs/projects
 [submodule "sociome"]
 	path = sociome
 	url = https://github.com/clevelandclinicqhs/sociome
